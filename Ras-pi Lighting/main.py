@@ -8,3 +8,4 @@ print("Imported files and applications...")
 gpio.setup(2, gpio.out)
 
 # working area 
+gpio.output(2, gpio.HIGH)
